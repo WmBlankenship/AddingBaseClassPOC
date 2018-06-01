@@ -1,9 +1,0 @@
-C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.Core\bin\Debug\netcoreapp2.0\AddingBaseClass.Core.deps.json
-C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.Core\bin\Debug\netcoreapp2.0\AddingBaseClass.Core.dll
-C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.Core\bin\Debug\netcoreapp2.0\AddingBaseClass.Core.pdb
-C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.Core\obj\Debug\netcoreapp2.0\AddingBaseClass.Core.csprojAssemblyReference.cache
-C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.Core\obj\Debug\netcoreapp2.0\AddingBaseClass.Core.csproj.CoreCompileInputs.cache
-C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.Core\obj\Debug\netcoreapp2.0\AddingBaseClass.Core.AssemblyInfoInputs.cache
-C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.Core\obj\Debug\netcoreapp2.0\AddingBaseClass.Core.AssemblyInfo.cs
-C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.Core\obj\Debug\netcoreapp2.0\AddingBaseClass.Core.dll
-C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.Core\obj\Debug\netcoreapp2.0\AddingBaseClass.Core.pdb
