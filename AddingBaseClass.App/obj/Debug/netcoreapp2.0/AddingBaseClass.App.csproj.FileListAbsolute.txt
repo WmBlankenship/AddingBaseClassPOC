@@ -1,0 +1,11 @@
+C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.App\bin\Debug\netcoreapp2.0\AddingBaseClass.App.deps.json
+C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.App\bin\Debug\netcoreapp2.0\AddingBaseClass.App.runtimeconfig.json
+C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.App\bin\Debug\netcoreapp2.0\AddingBaseClass.App.runtimeconfig.dev.json
+C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.App\bin\Debug\netcoreapp2.0\AddingBaseClass.App.dll
+C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.App\bin\Debug\netcoreapp2.0\AddingBaseClass.App.pdb
+C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.App\obj\Debug\netcoreapp2.0\AddingBaseClass.App.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.App\obj\Debug\netcoreapp2.0\AddingBaseClass.App.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.App\obj\Debug\netcoreapp2.0\AddingBaseClass.App.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.App\obj\Debug\netcoreapp2.0\AddingBaseClass.App.AssemblyInfo.cs
+C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.App\obj\Debug\netcoreapp2.0\AddingBaseClass.App.dll
+C:\Users\willi\source\repos\AddingBaseClassPOC\AddingBaseClass.App\obj\Debug\netcoreapp2.0\AddingBaseClass.App.pdb
